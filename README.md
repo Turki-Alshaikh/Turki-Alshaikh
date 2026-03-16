@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Turki Alshaikh 👋
 
-<!--
-**Turki-Alshaikh/Turki-Alshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student and a passionate software developer focused on web development, automation, and building functional digital products.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Technologies
+* **Languages:** Python, JavaScript, HTML, CSS
+* **Tools & Workflows:** Git, GitHub Actions, Web Scraping, API Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* **Mfatihy Store & Portal:** Developed and managing the digital products store infrastructure, including a custom self-service portal (`keys.mfatihy.com`) for seamless token redemption.
+* **MfatihyGames Scraper:** Built a Python-based automation tool using GitHub Actions to continuously scrape, update, and deploy game data.
+* **Interactive Portfolio:** A personal web space showcasing my development projects and interactive browser-based games.
+
+### 📊 GitHub Stats
+![Turki's GitHub stats](https://github-readme-stats.vercel.app/api?username=turki-alshaikh&show_icons=true&theme=radical)
