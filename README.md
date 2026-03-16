@@ -9,7 +9,7 @@
 
 ---
 
-## 🇸🇦 نبذة عني (About Me - Arabic)
+## 🇸🇦 نبذة عني 
 
 خريج علوم حاسب من كلية الجبيل الصناعية بشغف كبير تجاه تطوير البرمجيات، الشبكات، والبنية التحتية لتقنية المعلومات. أدمج بين المهارات التقنية القوية وعقلية الأعمال، وهو ما تُرجم عملياً بتأسيس وتطوير منصة إلكترونية للخدمات الرقمية. أمتلك مهارة عالية في توظيف أدوات الذكاء الاصطناعي لتسريع حل المشكلات البرمجية والتقنية.
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🇬🇧 About Me (English)
+## 🇬🇧 About Me 
 
 Dedicated Computer Science graduate from Jubail Industrial College with a strong technical foundation in software development, networks, and IT infrastructure. I possess a unique blend of technical skills and business acumen, demonstrated by successfully founding and automating a digital e-commerce platform. Skilled in leveraging AI tools to accelerate problem-solving.
 
